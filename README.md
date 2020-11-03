@@ -4,3 +4,4 @@
 [2020-10-6]：Learn to use Docker, install Docker and run Crossbar.io on different terminals. 
 [2020-10-13]：Continued going over Lab 5.
 [2020-10-20]：Checked Lab 6 and worked on Lab 6B.
+[2020-10-27]：Checked Lab 7 and worked on Lab A and B.
