@@ -6,3 +6,4 @@
 [2020-10-20]：Checked Lab 6 and worked on Lab 6B.
 [2020-10-27]：Checked Lab 7 and worked on Lab A and B.
 [2020-11-3]: Due to have high eye presure this week, I just went over some of Lab A and B.
+[2020-11-10]: Went over Lab 9A and learned quantum computation using Qiskit.
