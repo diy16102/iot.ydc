@@ -1,4 +1,5 @@
 # iot.ydc
+# project "Emails Control Personal Computer"
 [2020-09-22]: Have received my raspberry pie and start learning how to configure it. Complete raspberry pi configuration and download the raspberry pi operating system.
 [2020-09-29]: Go over the Google Map Problem solved in Lab 4 Stevens Project
 [2020-10-06]：Learn to use Docker, install Docker and run Crossbar.io on different terminals. 
