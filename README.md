@@ -7,4 +7,4 @@
 [2020-10-27]：Checked Lab 7 and worked on Lab A and B.
 [2020-11-03]: Due to have high eye presure this week, I just went over some of Lab A and B.
 [2020-11-10]: Went over Lab 9A and learned quantum computation using Qiskit.
-[2020-12-01]: Doing final project "Email control Personal Computer"
+[2020-12-01]: Doing final project "Emails Control Personal Computer"
