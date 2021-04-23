@@ -9,3 +9,4 @@
 [2020-11-03]: Due to have high eye presure this week, I just went over some of Lab A and B.
 [2020-11-10]: Went over Lab 9A and learned quantum computation using Qiskit.
 [2020-12-01]: Doing final project "Emails Control Personal Computer"
+[Ropes: an Alternative to Strings hans-j. boehm, russ atkinson and michael plass Xerox PARC, 3333 Coyote Hill Rd., Palo Alto, CA 94304, U.S.A](https://citeseer.ist.psu.edu/viewdoc/download?doi=10.1.1.14.9450&rep=rep1&type=pdf)
